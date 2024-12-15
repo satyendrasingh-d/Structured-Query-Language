@@ -1,4 +1,4 @@
-                      # ASSIGNMENT 03 #           Wrong Question 2,
+
 use company;
 # Que 01. Find the average salary of employees in each department
 select distinct department, avg(salary) as 'average_salary' from employees group by department;
