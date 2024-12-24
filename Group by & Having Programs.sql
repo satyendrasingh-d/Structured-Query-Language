@@ -1,4 +1,4 @@
-                     # Assignment 04 #
+
 use company;
 create table Sales(SalesID int, ProductID int, CustomerID int, SalesDate date, Quentity int, UnitePrice int, Region varchar(50));
 insert into Sales(SalesID, ProductID, CustomerID, SalesDate, Quentity, UnitePrice, Region)
